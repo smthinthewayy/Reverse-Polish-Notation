@@ -1,2 +1,5 @@
 # Reverse-Polish-Notation
-Program in C for creating graphs of functions defined by arbitrary expressions
+
+![Alt Text](img/demonstration.gif)
+
+[!Alt text](img/demonstration.gif)
